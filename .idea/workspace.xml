@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dce7535-31bc-4b5c-a7be-1b41d4633741" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c1eB4nXHTkkTZzSSJuLXtLxK86" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.dataset">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="segmentation_preprocessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="segmentation_preprocessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="segmentation_preprocessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.dataset" />
+      <item itemvalue="Python.utils" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dataset" />
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dce7535-31bc-4b5c-a7be-1b41d4633741" name="Default Changelist" comment="" />
+      <created>1589700388119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589700388119</updated>
+      <workItem from="1589700389324" duration="669000" />
+      <workItem from="1589765539614" duration="601000" />
+      <workItem from="1590218739302" duration="5414000" />
+      <workItem from="1590393875438" duration="9591000" />
+      <workItem from="1590466306656" duration="15616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="635" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590402142039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="635" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590402142039" />
+    <state width="1346" height="292" key="GridCell.Tab.0.bottom" timestamp="1590492064110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1346" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590492064110" />
+    <state width="1346" height="292" key="GridCell.Tab.0.center" timestamp="1590492064110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1346" height="292" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590492064110" />
+    <state width="1346" height="292" key="GridCell.Tab.0.left" timestamp="1590492064110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1346" height="292" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590492064110" />
+    <state width="1346" height="292" key="GridCell.Tab.0.right" timestamp="1590492064110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1346" height="292" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590492064110" />
+    <state width="1346" height="292" key="GridCell.Tab.1.bottom" timestamp="1590492064107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1346" height="292" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590492064107" />
+    <state width="1346" height="292" key="GridCell.Tab.1.center" timestamp="1590492064107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1346" height="292" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590492064107" />
+    <state width="1346" height="292" key="GridCell.Tab.1.left" timestamp="1590492064107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1346" height="292" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590492064107" />
+    <state width="1346" height="292" key="GridCell.Tab.1.right" timestamp="1590492064107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1346" height="292" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590492064107" />
+    <state x="537" y="200" key="SettingsEditor" timestamp="1590473455341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="200" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590473455341" />
+    <state width="242" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1590220204115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="242" height="198" key="ShowFilterAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590220204115" />
+    <state width="686" height="510" key="XDebugger.FullValuePopup" timestamp="1590485894487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="686" height="510" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1590485894487" />
+    <state x="784" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1590218739485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="367" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590218739485" />
+    <state x="967" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1590492024793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="967" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590492024793" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="img.shape" language="Python" />
+        <watch expression="label.shape" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/segmentation_preprocessing$utils.coverage" NAME="utils Coverage Results" MODIFIED="1590486130428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/segmentation_preprocessing$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1590491785249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
